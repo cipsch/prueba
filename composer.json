@@ -4,9 +4,7 @@
     },
     "autoload": {
         "classmap": [
-            "src/utils",
-            "src/models",
-            "src/controllers"
+            "src/utils"
         ]
     }
 }
